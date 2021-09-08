@@ -461,6 +461,7 @@ main .register-main-sendButton button{
 
 
 @media (min-width: 769px){
+    
     header .header-top-bar{
         max-width: 80%;
     }
@@ -579,4 +580,5 @@ main .register-main-sendButton button{
     main .register-main-loadPhoto{        
         font-size: large;
     }      
+}
 }
