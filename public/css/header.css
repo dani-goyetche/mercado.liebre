@@ -1,0 +1,60 @@
+
+
+header{    
+    background-color: #EAC926;
+    padding: 10px;
+}
+header .header-top-bar{
+    display: flex; 
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;       
+}
+header .header-top-bar .header-top-logo-left{    
+    width: 50%;
+    padding: 10px;
+}
+
+header .header-top-bar .header-top-form{
+    display: flex;
+    flex-wrap: nowrap;    
+    width: 50%;
+    justify-content: center;
+    align-items: center; 
+}
+header .header-top-bar .header-top-form .input{
+    background-color: #FFF;
+    border-radius: 5px 0px 0px 5px;
+    border-style: none;
+    outline: none;
+    color: #666;
+    padding: 3px 3px 3px 10px;
+    font-size: 0.7em;
+    width: 80%;
+    height: 50%;
+  
+}
+
+header .header-top-promo-right{
+    font-size:small;
+    font-weight: normal;    
+    text-align: center;
+    margin: auto;
+}
+
+header .header-bottom-burger-menu{
+    text-align: center;
+    margin-top: 10px;
+}
+
+header .header-bottom-burger-menu i{
+    display: block;
+    background-color: #0044AA;
+    border-radius: 10px;
+    color: #FFF;
+    font-size: 20px;
+    height: 40px;
+    margin: auto;
+    padding: 10px;
+    max-width: 40px; 
+}
