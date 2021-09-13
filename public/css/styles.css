@@ -112,9 +112,7 @@ main .register-main{
     margin-left: auto;
     margin-right: auto;    
 }
-main .register-main-shadow{
-    padding: 50px 10px 50px 10px;
-}
+
 main .register-main-form{
     display:flex;
     flex-direction: column;    
