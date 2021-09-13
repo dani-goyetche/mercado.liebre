@@ -113,32 +113,11 @@ main .register-main{
     margin-right: auto;    
 }
 
-main .register-main-form{
-    display:flex;
-    flex-direction: column;    
-}
-main .register-main-sendButton{
-    margin-top: 20px;    
-}
 
-main form section .register-main-inputBox{
-    background-color: #FFF;
-    border-radius: 5px;
-    border-style: none;
-    outline: none;
-    color: #666;
-    padding: 3px;
-    font-size: 1em;
-    width: 90%;
-    height: 50%;
-    margin: 15px;
-}
 
-main .register-main-profile{
-    display: flex;
-    margin: 15px;
-    padding: 15px;
-}
+
+
+
 main .register-main-profile p{
     font-size: 1em;
     padding-left: 15px;
